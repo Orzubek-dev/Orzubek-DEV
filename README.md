@@ -7,7 +7,7 @@
 
 ## 📫 Connect with me  
 - GitHub: [Orzubek-dev](https://github.com/Orzubek-dev)  
-- LinkedIn: (Orzubek08id)  
+- LinkedIn: (www.linkedin.com/in/orzubek08)  
 - Email: (Telbayigit48@gmail.com)
 
 - 
