@@ -9,5 +9,4 @@
 - GitHub: [Orzubek-dev](https://github.com/Orzubek-dev)  
 - LinkedIn: (Orzubek08id)  
 - Email: (Telbayigit48@gmail.com)
-- Telegram: (Orzubek_us)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orzubek-dev&show_icons=true&theme=radical)
